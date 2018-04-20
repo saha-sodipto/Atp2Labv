@@ -8,5 +8,12 @@ namespace TestGit
 {
     class Test
     {
+
+
+        public Test() {
+
+
+
+        }
     }
 }
